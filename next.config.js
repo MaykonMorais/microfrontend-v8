@@ -11,7 +11,7 @@ const nextConfig = {
         filename: "static/chunks/remoteEntry.js",
         exposes: {},
         shared: {},
-      }),
+      })
     );
 
     return config;
